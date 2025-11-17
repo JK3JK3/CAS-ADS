@@ -1,0 +1,6 @@
+venv
+*solution*
+large_text.txt
+__pycache__
+.ipynb_checkpoints
+output_processed.txt
